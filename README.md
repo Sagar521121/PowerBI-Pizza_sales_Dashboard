@@ -1,96 +1,47 @@
-\# 🍕 Pizza Sales Power BI Dashboard
+# 🍕 Pizza Sales Power BI Dashboard
 
+## 📊 Dashboard Preview
 
+### 🟢 Best Performing Insights
+![Best Dashboard](dashboard-best.png)
 
-\## 📊 Dashboard Preview
-
-
-
-\### 🟢 Best Performing Insights
-
-!\[Best Dashboard](dashboard-best.png)
-
-
-
-\### 🔴 Worst Performing Insights
-
-!\[Worst Dashboard](dashboard-worst.png)
-
-
+### 🔴 Worst Performing Insights
+![Worst Dashboard](dashboard-worst.png)
 
 ---
 
-
-
-\## 📌 Project Overview
-
-This Power BI dashboard analyzes pizza sales data to discover key business insights, sales performance trends, and product demand patterns.
-
-
+## 📌 Project Overview
+This project is a Power BI dashboard created to analyse pizza sales data and understand how the business is performing. The goal was to turn raw sales data into clear, meaningful insights that can help in better decision-making.
 
 ---
 
-
-
-\## 🎯 Business Insights Generated
-
-\- Identified top-selling and low-performing pizzas
-
-\- Revenue trends across different time periods
-
-\- Sales distribution by pizza category and size
-
-\- Customer ordering behavior patterns
-
-
+## 🎯 Key Insights from the Dashboard
+- Identified the best-selling and worst-selling pizzas
+- Analysed revenue trends over different time periods
+- Compared sales performance by pizza category and size
+- Studied customer ordering patterns to understand demand
 
 ---
 
-
-
-\## 🛠 Tools \& Technologies Used
-
-\- Microsoft Power BI  
-
-\- Data Cleaning \& Transformation  
-
-\- Data Visualization  
-
-\- Business Intelligence Techniques  
-
-
+## 🛠 Tools & Technologies Used
+- Microsoft Power BI  
+- Data Cleaning and Transformation  
+- Data Visualisation  
+- Business Intelligence Concepts  
 
 ---
 
-
-
-\## 📁 Project Files
-
-\- `Pizza sales.pbix` → Main Power BI dashboard file
-
-\- `dashboard-best.png` → Screenshot of best-performing insights
-
-\- `dashboard-worst.png` → Screenshot of worst-performing insights
-
-
+## 📁 Project Files
+- `Pizza sales.pbix` – Main Power BI dashboard file  
+- `dashboard-best.png` – Screenshot showing best-performing insights  
+- `dashboard-worst.png` – Screenshot showing worst-performing insights  
 
 ---
 
-
-
-\## 🚀 Purpose of This Project
-
-This project demonstrates how data visualization and business intelligence tools like Power BI can help businesses make data-driven decisions.
-
-
+## 🚀 Why I Built This Project
+I built this project to practice real-world data analysis using Power BI and to understand how businesses can use data visualization to make smarter, data-driven decisions.
 
 ---
 
-
-
-\## 👨‍💻 Author
-
-\*\*Sagar\*\*
-
-
-
+## 👨‍💻 Author
+**Sagar**
